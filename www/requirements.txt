@@ -1,0 +1,6 @@
+argh==0.26.2
+mysql-connector-python==8.0.5
+pathtools==0.1.2
+pkg-resources==0.0.0
+PyYAML==3.12
+watchdog==0.8.3
